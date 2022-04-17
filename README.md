@@ -12,10 +12,3 @@
 <p align="center">
    <a href="https://github.com/LeonardoCorreia08" target="_blank">Autor</a>
 </p>
-
-<br>
-
-
-&#xa0;
-
-<a href="#top">Voltar para o topo</a>
