@@ -27,7 +27,7 @@ O projeto consiste em colocar em prática os aprendizados obtidos através do cu
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com :heart: por <a href="https://github.com/LeonardoCorreia08" target="_blank">Isabella M. Ramos</a>
+Feito com :heart: por <a href="https://github.com/LeonardoCorreia08" target="_blank"></a>
 
 &#xa0;
 
